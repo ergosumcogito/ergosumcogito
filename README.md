@@ -4,9 +4,7 @@ I'm a Computer Science student at [THWS](https://www.thws.de/en/).
 
 Main fields of interest:
 - Backend
-- Cybersecurity
-
-
+- Software Development
 
 ###
 
